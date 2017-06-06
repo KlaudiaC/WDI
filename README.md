@@ -1,2 +1,3 @@
 # WDI
-Exercises for Introduction to Computer Science
+
+Those are some easy exercises which I have done while my first semester.
